@@ -59,6 +59,7 @@ footer a:hover {
     color: azure;
     text-decoration: underline;
 }
-.hero-img {
-    width: 80px;
+#hero-img {
+    width: 100%;
 }
+
