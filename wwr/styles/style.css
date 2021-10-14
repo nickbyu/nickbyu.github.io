@@ -1,8 +1,6 @@
 .content {
     max-width: 1600px;
-    margin: 0 auto;
-    
-    
+    margin: 0 auto;  
 }
 nav a {
     text-align: center;
@@ -26,10 +24,10 @@ body {
     background-color: #8ecae6;
 }
 header {
-    background-color: rgba(20,30,13, .7);
+    background-color: #023047;
 }
 nav a:hover {
-    background-color:#F0FFFF;
+    background-color:#219ebc;
     color: blanchedalmond;
 }
 .home-title {
@@ -44,6 +42,7 @@ h4 {
 }
 .book:hover, .join:hover {
     color: cornsilk;
+    background-color: #219ebc;
 }
 .msg h2 {
     color:#DEB887 ;
@@ -76,4 +75,7 @@ footer {
 }
 .msg {
     background-color: #023047;
+}
+.icon {
+    width: 80px;
 }

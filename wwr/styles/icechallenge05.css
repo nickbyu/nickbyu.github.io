@@ -1,10 +1,12 @@
 #w05_circles {
-    margin: 0 auto;
+    height: 400px;
     width: 100%;
+    margin-bottom: auto;
 }
 #background {
     height: 400px;
-    background-color: darkslategray;
+    background-color: rgb(77, 75, 75);
+    margin-top: 15px;
 }
 #w05_ice_image_desk {
     width: 150px;
@@ -36,4 +38,7 @@ section {
     justify-items: center;
     align-items: center;
 
+}
+.main-box {
+    margin-bottom: 40px;
 }
