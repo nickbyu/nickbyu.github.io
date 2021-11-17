@@ -91,6 +91,7 @@ h4 {
     color: #FFEBCD;
 }
 .book, .join {
+    background-color: #219ebc;
     color: cornsilk;
     text-decoration: none;
     font-size: 18px;
@@ -100,7 +101,7 @@ h4 {
 }
 .book:hover, .join:hover {
     color: cornsilk;
-    background-color: #219ebc;
+    background-color: #8ecae6;
 }
 .msg h2 {
     color:#DEB887 ;
