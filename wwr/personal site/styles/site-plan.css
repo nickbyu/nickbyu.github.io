@@ -21,7 +21,7 @@ Fonts are separated by a | */
   --paragraph-color-on-color: #55868C; /* paragraph text on a colored background */ 
   --paragraph-background-color: #e3e0cc  ;
   --nav-link-color: #e3e0cc;
-  --nav-background-color: #D4AC0D;
+  --nav-background-color: #219ebc;
   --nav-hover-link-color: #55868C;
   --nav-hover-background-color: #e3e0cc;
 }
@@ -173,4 +173,11 @@ nav a:hover {
   grid-area: right;
   border-top: 1px solid;
   border-right: 1px solid;
+}
+nav a {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
 }
