@@ -61,6 +61,7 @@ footer a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: solid black;
 
 }
 .h3 {
